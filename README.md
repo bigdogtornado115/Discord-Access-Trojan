@@ -1,6 +1,7 @@
 # Discord Access Trojan
 
-![Discord RAT](https://github.com/LinuxPhantom/Discord-Access-Trojan)
+![Discord RAT](https://raw.githubusercontent.com/LinuxPhantom/Discord-Access-Trojan/main/ToxicRat.png)
+
 
 
 ## Description
